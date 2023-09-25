@@ -9,6 +9,16 @@ recognition.start();
 
 recognition.addEventListener('result', onSpeak);
 
+recognition.addEventListener('error', (e) => {
+    console.log("Error")
+    console.log(e)
+});
+
+recognition.addEventListener('nomatch', (e) => {
+    console.log("NoMatch")
+    console.log(e)
+});
+
 function onSpeak(e) {
     chute = e.results[0][0].transcript;
     exibeChuteNaTela(chute);
