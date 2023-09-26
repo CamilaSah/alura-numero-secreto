@@ -20,6 +20,9 @@ Como o projeto utiliza reconhecimento de voz, para acessá-lo você deve permiti
 <br>
 Devido a uma maior compatibilidade de navegador, recomendo que utilize o Chrome para ter uma experiência melhor.
 
+![apresentacao-alura-jogo-numero-secreto840](https://github.com/CamilaSah/alura-numero-secreto/assets/128820692/47e11daf-89f9-485f-83ce-c893575fb8f0)
+
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 Técnicas utilizadas:
